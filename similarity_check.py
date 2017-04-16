@@ -3,6 +3,7 @@ from gensim import corpora, models, similarities
 import os.path as File
 from nltk.corpus import wordnet
 import itertools
+import sys
 
 corpus_path = "./tmp/hk.mm"
 index_path = "./tmp/hk.index"
@@ -35,8 +36,9 @@ def initialize():
 
 
 def findSimilarity(heading):    
-    if not File.exists(index_path):
+    if int(sys.argv[2]) == 1:
         initialize()
+    
     heading = str(heading)
     index = similarities.MatrixSimilarity.load(index_path)
     #corpus = corpora.MmCorpus(corpus_path)
@@ -85,4 +87,4 @@ def getSimHeader(sentence):
                 findSimilarity(clean)
     findSimilarity(sentence)
     
-getSimHeader("experience in work")
+getSimHeader(sys.argv[1])
