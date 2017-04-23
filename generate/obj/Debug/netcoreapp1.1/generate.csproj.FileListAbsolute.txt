@@ -14,3 +14,11 @@ D:\CvSearch\generate\bin\Debug\netcoreapp1.1\generate.pdb
 D:\CvSearch\generate\obj\Debug\netcoreapp1.1\generate.AssemblyInfo.cs
 D:\CvSearch\generate\obj\Debug\netcoreapp1.1\generate.dll
 D:\CvSearch\generate\obj\Debug\netcoreapp1.1\generate.pdb
+C:\Users\t-abv\Documents\HK-Cv\CvSearch\generate\bin\Debug\netcoreapp1.1\generate.deps.json
+C:\Users\t-abv\Documents\HK-Cv\CvSearch\generate\bin\Debug\netcoreapp1.1\generate.runtimeconfig.json
+C:\Users\t-abv\Documents\HK-Cv\CvSearch\generate\bin\Debug\netcoreapp1.1\generate.runtimeconfig.dev.json
+C:\Users\t-abv\Documents\HK-Cv\CvSearch\generate\bin\Debug\netcoreapp1.1\generate.dll
+C:\Users\t-abv\Documents\HK-Cv\CvSearch\generate\bin\Debug\netcoreapp1.1\generate.pdb
+C:\Users\t-abv\Documents\HK-Cv\CvSearch\generate\obj\Debug\netcoreapp1.1\generate.AssemblyInfo.cs
+C:\Users\t-abv\Documents\HK-Cv\CvSearch\generate\obj\Debug\netcoreapp1.1\generate.dll
+C:\Users\t-abv\Documents\HK-Cv\CvSearch\generate\obj\Debug\netcoreapp1.1\generate.pdb
