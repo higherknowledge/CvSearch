@@ -1,0 +1,348 @@
+{
+  "luis_schema_version": "2.0.0",
+  "versionId": "0.1",
+  "name": "HK_cv_search",
+  "desc": "Used to find valid headers\n",
+  "culture": "en-us",
+  "intents": [
+    {
+      "name": "Education"
+    },
+    {
+      "name": "extraCurricular"
+    },
+    {
+      "name": "Interests"
+    },
+    {
+      "name": "Internship"
+    },
+    {
+      "name": "languages"
+    },
+    {
+      "name": "mootCourtLaw"
+    },
+    {
+      "name": "None"
+    },
+    {
+      "name": "Research"
+    },
+    {
+      "name": "skills"
+    },
+    {
+      "name": "workExperience"
+    }
+  ],
+  "entities": [],
+  "composites": [],
+  "closedLists": [],
+  "bing_entities": [],
+  "actions": [],
+  "model_features": [],
+  "regex_features": [],
+  "utterances": [
+    {
+      "text": "somewhere",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "i did this",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "what is",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "of",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "hi",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "rohan",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "abhi",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "abbhi",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "little & co.",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "indian vis pre moot organised by nlu delhi in association with international chamber of commerce, international court of arbitration, paris",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "m.s.ramaiah college of law, bangalore",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "- maiden sports fest of nlu delhi.",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "nmims school of law, mumbai",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "6.1 out of 7",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "internship",
+      "intent": "Internship",
+      "entities": []
+    },
+    {
+      "text": "previous internships",
+      "intent": "Internship",
+      "entities": []
+    },
+    {
+      "text": "internship experience",
+      "intent": "Internship",
+      "entities": []
+    },
+    {
+      "text": "interned under advocate mohan",
+      "intent": "Internship",
+      "entities": []
+    },
+    {
+      "text": "presently intern",
+      "intent": "Internship",
+      "entities": []
+    },
+    {
+      "text": "education",
+      "intent": "Education",
+      "entities": []
+    },
+    {
+      "text": "schooling",
+      "intent": "Education",
+      "entities": []
+    },
+    {
+      "text": "academics",
+      "intent": "Education",
+      "entities": []
+    },
+    {
+      "text": "qualification",
+      "intent": "Education",
+      "entities": []
+    },
+    {
+      "text": "scholastics",
+      "intent": "Education",
+      "entities": []
+    },
+    {
+      "text": "education-",
+      "intent": "Education",
+      "entities": []
+    },
+    {
+      "text": "scholastic",
+      "intent": "Education",
+      "entities": []
+    },
+    {
+      "text": "graduation",
+      "intent": "Education",
+      "entities": []
+    },
+    {
+      "text": "additional qualifications",
+      "intent": "Education",
+      "entities": []
+    },
+    {
+      "text": "educational qualifications",
+      "intent": "Education",
+      "entities": []
+    },
+    {
+      "text": "educational qualification",
+      "intent": "Education",
+      "entities": []
+    },
+    {
+      "text": "job experience",
+      "intent": "workExperience",
+      "entities": []
+    },
+    {
+      "text": "work experience",
+      "intent": "workExperience",
+      "entities": []
+    },
+    {
+      "text": "previous work",
+      "intent": "workExperience",
+      "entities": []
+    },
+    {
+      "text": "work profile/",
+      "intent": "workExperience",
+      "entities": []
+    },
+    {
+      "text": "papers published",
+      "intent": "Research",
+      "entities": []
+    },
+    {
+      "text": "research work",
+      "intent": "Research",
+      "entities": []
+    },
+    {
+      "text": "research expereince",
+      "intent": "Research",
+      "entities": []
+    },
+    {
+      "text": "papers",
+      "intent": "Research",
+      "entities": []
+    },
+    {
+      "text": "talent",
+      "intent": "skills",
+      "entities": []
+    },
+    {
+      "text": "skills",
+      "intent": "skills",
+      "entities": []
+    },
+    {
+      "text": "other skills:",
+      "intent": "skills",
+      "entities": []
+    },
+    {
+      "text": "achievements",
+      "intent": "skills",
+      "entities": []
+    },
+    {
+      "text": "hobbies",
+      "intent": "skills",
+      "entities": []
+    },
+    {
+      "text": "organising events:",
+      "intent": "skills",
+      "entities": []
+    },
+    {
+      "text": "position of responsibilty",
+      "intent": "skills",
+      "entities": []
+    },
+    {
+      "text": "interests",
+      "intent": "Interests",
+      "entities": []
+    },
+    {
+      "text": "interested in",
+      "intent": "Interests",
+      "entities": []
+    },
+    {
+      "text": "interset",
+      "intent": "Interests",
+      "entities": []
+    },
+    {
+      "text": "areas of interest",
+      "intent": "Interests",
+      "entities": []
+    },
+    {
+      "text": "hobbies & interest",
+      "intent": "Interests",
+      "entities": []
+    },
+    {
+      "text": "speaking languages",
+      "intent": "languages",
+      "entities": []
+    },
+    {
+      "text": "languages",
+      "intent": "languages",
+      "entities": []
+    },
+    {
+      "text": "lingustic skills",
+      "intent": "languages",
+      "entities": []
+    },
+    {
+      "text": "co curricular activities",
+      "intent": "extraCurricular",
+      "entities": []
+    },
+    {
+      "text": "extra curricular activities",
+      "intent": "extraCurricular",
+      "entities": []
+    },
+    {
+      "text": "co curricular",
+      "intent": "extraCurricular",
+      "entities": []
+    },
+    {
+      "text": "extra-curricular",
+      "intent": "extraCurricular",
+      "entities": []
+    },
+    {
+      "text": "moot court's law",
+      "intent": "mootCourtLaw",
+      "entities": []
+    },
+    {
+      "text": "moot court's law",
+      "intent": "mootCourtLaw",
+      "entities": []
+    },
+    {
+      "text": "moot court",
+      "intent": "mootCourtLaw",
+      "entities": []
+    }
+  ]
+}

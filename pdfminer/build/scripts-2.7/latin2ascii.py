@@ -1,4 +1,4 @@
-#!C:\Python27\python.exe
+#!C:\Users\t-abv\AppData\Local\Enthought\Canopy\User\python.exe
 #
 #  latin2ascii.py - converts latin1 characters into ascii.
 #
