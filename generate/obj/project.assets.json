@@ -7080,14 +7080,17 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\t-abv\\Documents\\HK-Cv\\CvSearch\\generate\\generate.csproj",
+      "projectUniqueName": "c:\\Users\\t-abv\\Documents\\HK-Cv\\CvSearch\\generate\\generate.csproj",
       "projectName": "generate",
-      "projectPath": "C:\\Users\\t-abv\\Documents\\HK-Cv\\CvSearch\\generate\\generate.csproj",
-      "outputPath": "C:\\Users\\t-abv\\Documents\\HK-Cv\\CvSearch\\generate\\obj\\",
+      "projectPath": "c:\\Users\\t-abv\\Documents\\HK-Cv\\CvSearch\\generate\\generate.csproj",
+      "outputPath": "c:\\Users\\t-abv\\Documents\\HK-Cv\\CvSearch\\generate\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
       ],
+      "files": {
+        "lib/netcoreapp1.1/generate.dll": "c:\\Users\\t-abv\\Documents\\HK-Cv\\CvSearch\\generate\\bin\\placeholder\\netcoreapp1.1\\generate.dll"
+      },
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {}
@@ -7099,8 +7102,7 @@
         "dependencies": {
           "Microsoft.NETCore.App": {
             "target": "Package",
-            "version": "1.1.1",
-            "autoReferenced": true
+            "version": "1.1.1"
           }
         }
       }

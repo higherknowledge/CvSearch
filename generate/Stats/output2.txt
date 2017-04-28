@@ -1,0 +1,2165 @@
+new_file is ./CVs\AyushAgarwal-18-Resume-0e0b-a912.pdf
+Filename : ./CVs\AyushAgarwal-18-Resume-0e0b a912.pdf parts : ./CVs
+Output path is : ./Output/AyushAgarwal-18-Resume-0e0b-a912.json
+message : Ayush Agarwal 
+, replying from cache 
+
+'topScoringIntent'
+message : Address for Correspondence:  
+, replying from cache 
+
+message : Phone  :  +91 8755890104 
+, replying from cache 
+
+message : Email 
+, replying from cache 
+
+message : :  ayushagarwal.upes@gmail.com 
+, replying from cache 
+
+message : Permanent Address:                    
+, replying from cache 
+
+message : Allahabad 
+, replying from cache 
+
+message : CAREER OBJECTIVE 
+, replying from cache 
+
+message : ACADEMIC BACKGROUND 
+, replying from cache 
+
+message : Year(s) 
+, replying from cache 
+
+in catch
+message : Diploma / Certificate 
+, replying from cache 
+
+message : Board/University 
+, replying from cache 
+
+message : College/ Institute/ 
+, replying from cache 
+
+message : Percentage / 
+, replying from cache 
+
+message : University 
+, replying from cache 
+
+message : CGPA 
+, replying from cache 
+
+message : INTERNSHIPS 
+, replying from cache 
+
+message : 1.  Cicero Chambers 
+, replying from cache 
+
+message : Siboney S Sagar 
+, replying from cache 
+
+message : 3.  Firm: iPleaders 
+, replying from cache 
+
+message : 4.  NGO: Human Rights Law Network 
+, replying from cache 
+
+message : Allahabad 
+, replying from cache 
+
+'topScoringIntent'
+message : Project Name: Briefing of the Cases 
+, replying from cache 
+
+message : MOOT COURT EXPERIENCE 
+, replying from cache 
+
+message : Bhopal. 
+, replying from cache 
+
+'topScoringIntent'
+message : CO-CURRICULAR ACTIVITIES 
+, replying from cache 
+
+message : SEMINAR AND OTHER WORKSHOPS 
+, replying from cache 
+
+message : EXTRA CURRICULAR ACTIVITIES 
+, replying from cache 
+
+message : COMPUTER SKILLS 
+, replying from cache 
+
+message : PERSONAL DETAILS 
+, replying from cache 
+
+message : Ayush Agarwal 
+, replying from cache 
+
+new_file is ./CVs\AyushAgarwal-18-Resume-0e0b.pdf
+Filename : ./CVs\AyushAgarwal-18-Resume-0e0b.pdf parts : ./CVs
+Output path is : ./Output/AyushAgarwal-18-Resume-0e0b.json
+message : Ayush Agarwal 
+, replying from cache 
+
+'topScoringIntent'
+message : Address for Correspondence:  
+, replying from cache 
+
+message : Phone  :  +91 8755890104 
+, replying from cache 
+
+message : Email 
+, replying from cache 
+
+message : :  ayushagarwal.upes@gmail.com 
+, replying from cache 
+
+message : Permanent Address:                    
+, replying from cache 
+
+message : Allahabad 
+, replying from cache 
+
+message : CAREER OBJECTIVE 
+, replying from cache 
+
+message : ACADEMIC BACKGROUND 
+, replying from cache 
+
+message : Year(s) 
+, replying from cache 
+
+in catch
+message : Diploma / Certificate 
+, replying from cache 
+
+message : Board/University 
+, replying from cache 
+
+message : College/ Institute/ 
+, replying from cache 
+
+message : Percentage / 
+, replying from cache 
+
+message : University 
+, replying from cache 
+
+message : CGPA 
+, replying from cache 
+
+message : INTERNSHIPS 
+, replying from cache 
+
+message : 1.  Cicero Chambers 
+, replying from cache 
+
+message : Siboney S Sagar 
+, replying from cache 
+
+message : 3.  Firm: iPleaders 
+, replying from cache 
+
+message : 4.  NGO: Human Rights Law Network 
+, replying from cache 
+
+message : Allahabad 
+, replying from cache 
+
+'topScoringIntent'
+message : Project Name: Briefing of the Cases 
+, replying from cache 
+
+message : MOOT COURT EXPERIENCE 
+, replying from cache 
+
+message : Bhopal. 
+, replying from cache 
+
+'topScoringIntent'
+message : CO-CURRICULAR ACTIVITIES 
+, replying from cache 
+
+message : SEMINAR AND OTHER WORKSHOPS 
+, replying from cache 
+
+message : EXTRA CURRICULAR ACTIVITIES 
+, replying from cache 
+
+message : COMPUTER SKILLS 
+, replying from cache 
+
+message : PERSONAL DETAILS 
+, replying from cache 
+
+message : Ayush Agarwal 
+, replying from cache 
+
+new_file is ./CVs\AyushAgarwal-Amity16-Resume-a696.pdf
+Filename : ./CVs\AyushAgarwal-Amity16-Resume-a696.pdf parts : ./CVs
+Output path is : ./Output/AyushAgarwal-Amity16-Resume-a696.json
+message : WORK EXPERIENCE: 
+, replying from cache 
+
+message : COURSE 
+, replying from cache 
+
+message : INSTITUTION 
+, replying from cache 
+
+message : EXTRA CURRICULAR ACTIVITIES: 
+, replying from cache 
+
+new_file is ./CVs\AyushGehlot-16-Resume-0152-0e9b.pdf
+Filename : ./CVs\AyushGehlot-16-Resume-0152 0e9b.pdf parts : ./CVs
+Output path is : ./Output/AyushGehlot-16-Resume-0152-0e9b.json
+message : CURRICULUM VITAE 
+, replying from cache 
+
+message : CURRICULUM VITAE 
+, replying from cache 
+
+new_file is ./CVs\AyushGehlot-16-Resume-0152-9903.pdf
+Filename : ./CVs\AyushGehlot-16-Resume-0152 9903.pdf parts : ./CVs
+Output path is : ./Output/AyushGehlot-16-Resume-0152-9903.json
+message : CURRICULUM VITAE 
+, replying from cache 
+
+message : AYUSH GEHLOT 
+, replying from cache 
+
+message :   ACADEMIC PROFILE 
+, replying from cache 
+
+message : Qualifications in Action 
+, replying from cache 
+
+message : Rajasthan) (May, 2013) 
+, replying from cache 
+
+message : Panwar) (2014) 
+, replying from cache 
+
+message : CURRICULUM VITAE 
+, replying from cache 
+
+message : Awards/Achievements: 
+, replying from cache 
+
+message : Roles & Responsibilities:  
+, replying from cache 
+
+new_file is ./CVs\AyushGehlot-16-Resume-0152.pdf
+Filename : ./CVs\AyushGehlot-16-Resume-0152.pdf parts : ./CVs
+Output path is : ./Output/AyushGehlot-16-Resume-0152.json
+message : CURRICULUM VITAE 
+, replying from cache 
+
+message : AYUSH GEHLOT 
+, replying from cache 
+
+message :   ACADEMIC PROFILE 
+, replying from cache 
+
+message : Qualifications in Action 
+, replying from cache 
+
+message : Rajasthan) (May, 2013) 
+, replying from cache 
+
+message : Panwar) (2014) 
+, replying from cache 
+
+message : CURRICULUM VITAE 
+, replying from cache 
+
+message : Awards/Achievements: 
+, replying from cache 
+
+message : Roles & Responsibilities:  
+, replying from cache 
+
+new_file is ./CVs\AyushGehlot-17-Resume-0152.pdf
+Filename : ./CVs\AyushGehlot-17-Resume-0152.pdf parts : ./CVs
+Output path is : ./Output/AyushGehlot-17-Resume-0152.json
+message : AYUSH GEHLOT 
+, replying from cache 
+
+message : EDUCATION 
+, replying from cache 
+
+new_file is ./CVs\AyushiAgarwal-18-Resume-b730.pdf
+Filename : ./CVs\AyushiAgarwal-18-Resume-b730.pdf parts : ./CVs
+Output path is : ./Output/AyushiAgarwal-18-Resume-b730.json
+message : EDUCATIONAL QUALIFICATION: 
+, replying from cache 
+
+new_file is ./CVs\AyushiBansal-GLCMumbai19-Resume-9a58.pdf
+Filename : ./CVs\AyushiBansal-GLCMumbai19-Resume-9a58.pdf parts : ./CVs
+Output path is : ./Output/AyushiBansal-GLCMumbai19-Resume-9a58.json
+in catch
+in catch
+in catch
+in catch
+in catch
+in catch
+in catch
+new_file is ./CVs\AyushiVerma-19-Resume-5156.pdf
+Filename : ./CVs\AyushiVerma-19-Resume-5156.pdf parts : ./CVs
+Output path is : ./Output/AyushiVerma-19-Resume-5156.json
+message : SCHOLASTIC 
+, replying from cache 
+
+new_file is ./CVs\AyushiVerma-HNLU19-Resume-5156-3f58.pdf
+Filename : ./CVs\AyushiVerma-HNLU19-Resume-5156 3f58.pdf parts : ./CVs
+Output path is : ./Output/AyushiVerma-HNLU19-Resume-5156-3f58.json
+message : AYUSHI VERMA 
+, replying from cache 
+
+message : SCHOLASTIC 
+, replying from cache 
+
+message : Delhi Public School, Bhilai 
+, replying from cache 
+
+new_file is ./CVs\AyushiVerma-HNLU19-Resume-5156-b84b.pdf
+Filename : ./CVs\AyushiVerma-HNLU19-Resume-5156 b84b.pdf parts : ./CVs
+Output path is : ./Output/AyushiVerma-HNLU19-Resume-5156-b84b.json
+message : AYUSHI VERMA 
+, replying from cache 
+
+message : SCHOLASTIC 
+, replying from cache 
+
+message : Delhi Public School, Bhilai 
+, replying from cache 
+
+message : ACTIVITIES 
+, replying from cache 
+
+message : Legal Researcher and Blogger, KnowLaw 
+, replying from cache 
+
+new_file is ./CVs\AyushiVerma-HNLU19-Resume-5156.pdf
+Filename : ./CVs\AyushiVerma-HNLU19-Resume-5156.pdf parts : ./CVs
+Output path is : ./Output/AyushiVerma-HNLU19-Resume-5156.json
+message : AYUSHI VERMA 
+, replying from cache 
+
+'topScoringIntent'
+message : Delhi Public School, Bhilai 
+, replying from cache 
+
+message : SCHOLASTIC 
+, replying from cache 
+
+message : Legal Researcher and Blogger, KnowLaw 
+, replying from cache 
+
+message : ACTIVITIES 
+, replying from cache 
+
+'topScoringIntent'
+'topScoringIntent'
+'topScoringIntent'
+message : PAPERS 
+, replying from cache 
+
+message : ADDITIONAL 
+, replying from cache 
+
+message : PERSONAL 
+, replying from cache 
+
+new_file is ./CVs\AyushJain-19-Resume-c83b-8e37.pdf
+Filename : ./CVs\AyushJain-19-Resume-c83b 8e37.pdf parts : ./CVs
+Output path is : ./Output/AyushJain-19-Resume-c83b-8e37.json
+message : EDUCATION 
+, replying from cache 
+
+message : CONFERENCES 
+, replying from cache 
+
+message : INTERNSHIPS 
+, replying from cache 
+
+message : EXPERIENCE 
+, replying from cache 
+
+message : EXTRA-CURRICULAR ACTIVITIES 
+, replying from cache 
+
+message : SPORTS  
+, replying from cache 
+
+message : ACTIVITIES 
+, replying from cache 
+
+new_file is ./CVs\AyushJain-19-Resume-c83b-e4ed.pdf
+Filename : ./CVs\AyushJain-19-Resume-c83b e4ed.pdf parts : ./CVs
+Output path is : ./Output/AyushJain-19-Resume-c83b-e4ed.json
+message : AYUSH JAIN 
+, replying from cache 
+
+message : ACADEMIC ACTIVITIES 
+, replying from cache 
+
+message : EDUCATION 
+, replying from cache 
+
+message : OTHER  
+, replying from cache 
+
+message : COURSES 
+, replying from cache 
+
+message : CONFERENCES 
+, replying from cache 
+
+message : AWARDS AND 
+, replying from cache 
+
+message : HONOURS 
+, replying from cache 
+
+message : INTERNSHIPS 
+, replying from cache 
+
+message : AND WORK 
+, replying from cache 
+
+message : EXPERIENCE 
+, replying from cache 
+
+message : SINHA AND CO., KOLKATA 
+, replying from cache 
+
+message : EXTRA-CURRICULAR ACTIVITIES 
+, replying from cache 
+
+message : POSITIONS OF 
+, replying from cache 
+
+message : RESPONSIBILITY 
+, replying from cache 
+
+message : SPORTS  
+, replying from cache 
+
+message : ACTIVITIES 
+, replying from cache 
+
+message : REFERENCE  
+, replying from cache 
+
+new_file is ./CVs\AyushVijayvargiya-NALSAR18-Resume-c17b.pdf
+Filename : ./CVs\AyushVijayvargiya-NALSAR18-Resume-c17b.pdf parts : ./CVs
+Output path is : ./Output/AyushVijayvargiya-NALSAR18-Resume-c17b.json
+message : ACADEMIC QUALIFICATIONS 
+, replying from cache 
+
+message : WORK EXPERIENCE  
+, replying from cache 
+
+message : Page 1 of 3 
+, replying from cache 
+
+message : AYUSH VIJAYVARGIYA 
+, replying from cache 
+
+message : MOOT COURT COMPETITIONS 
+, replying from cache 
+
+message : Page 2 of 3 
+, replying from cache 
+
+message : AYUSH VIJAYVARGIYA 
+, replying from cache 
+
+message : POSITION OF RESPONSIBILITY 
+, replying from cache 
+
+message : Page 3 of 3 
+, replying from cache 
+
+new_file is ./CVs\AyusshiAgarwal-19-Resume-2b53.pdf
+Filename : ./CVs\AyusshiAgarwal-19-Resume-2b53.pdf parts : ./CVs
+Output path is : ./Output/AyusshiAgarwal-19-Resume-2b53.json
+message : EDUCATION  
+, replying from cache 
+
+in catch
+message : PROFESSIONAL COURSES 
+, replying from cache 
+
+new_file is ./CVs\AyusshiAgarwal-Christ19-Resume-2b53-0840.pdf
+Filename : ./CVs\AyusshiAgarwal-Christ19-Resume-2b53 0840.pdf parts : ./CVs
+Output path is : ./Output/AyusshiAgarwal-Christ19-Resume-2b53-0840.json
+message : AYUSSHI AGARWAL 
+, replying from cache 
+
+message : EDUCATION  
+, replying from cache 
+
+in catch
+message : PROFESSIONAL COURSES 
+, replying from cache 
+
+message : CERTIFICATE COURSES  
+, replying from cache 
+
+message : INTERNSHIP EXPERIENCE  
+, replying from cache 
+
+message : CO-CURRICULAR ACTIVITIES  
+, replying from cache 
+
+message : Moot Court Achievements 
+, replying from cache 
+
+message : ORGANISATIONAL ACTIVITIES  
+, replying from cache 
+
+new_file is ./CVs\AyusshiAgarwal-Christ19-Resume-2b53-2850.pdf
+Filename : ./CVs\AyusshiAgarwal-Christ19-Resume-2b53 2850.pdf parts : ./CVs
+Output path is : ./Output/AyusshiAgarwal-Christ19-Resume-2b53-2850.json
+message : AYUSSHI AGARWAL 
+, replying from cache 
+
+message : EDUCATION  
+, replying from cache 
+
+in catch
+message : PROFESSIONAL COURSES 
+, replying from cache 
+
+message : CERTIFICATE COURSES  
+, replying from cache 
+
+message : INTERNSHIP EXPERIENCE  
+, replying from cache 
+
+message : CO-CURRICULAR ACTIVITIES  
+, replying from cache 
+
+message : Moot Court Achievements 
+, replying from cache 
+
+message : ORGANISATIONAL ACTIVITIES  
+, replying from cache 
+
+new_file is ./CVs\AyusshiAgarwal-Christ19-Resume-2b53-2b15.pdf
+Filename : ./CVs\AyusshiAgarwal-Christ19-Resume-2b53 2b15.pdf parts : ./CVs
+Output path is : ./Output/AyusshiAgarwal-Christ19-Resume-2b53-2b15.json
+message : AYUSSHI AGARWAL 
+, replying from cache 
+
+message : EDUCATION  
+, replying from cache 
+
+in catch
+message : PROFESSIONAL COURSES 
+, replying from cache 
+
+message : CERTIFICATE COURSES  
+, replying from cache 
+
+message : INTERNSHIP EXPERIENCE  
+, replying from cache 
+
+message : CO-CURRICULAR ACTIVITIES  
+, replying from cache 
+
+message : Moot Court Achievements 
+, replying from cache 
+
+message : ORGANISATIONAL ACTIVITIES  
+, replying from cache 
+
+new_file is ./CVs\AyusshiAgarwal-Christ19-Resume-2b53-b4cf.pdf
+Filename : ./CVs\AyusshiAgarwal-Christ19-Resume-2b53 b4cf.pdf parts : ./CVs
+Output path is : ./Output/AyusshiAgarwal-Christ19-Resume-2b53-b4cf.json
+message : AYUSSHI AGARWAL 
+, replying from cache 
+
+message : EDUCATION  
+, replying from cache 
+
+in catch
+message : PROFESSIONAL COURSES 
+, replying from cache 
+
+message : CERTIFICATE COURSES  
+, replying from cache 
+
+message : INTERNSHIP EXPERIENCE  
+, replying from cache 
+
+message : CO-CURRICULAR ACTIVITIES  
+, replying from cache 
+
+message : Moot Court Achievements 
+, replying from cache 
+
+message : ORGANISATIONAL ACTIVITIES  
+, replying from cache 
+
+new_file is ./CVs\AyusshiAgarwal-Christ19-Resume-2b53-ebfe.pdf
+Filename : ./CVs\AyusshiAgarwal-Christ19-Resume-2b53 ebfe.pdf parts : ./CVs
+Output path is : ./Output/AyusshiAgarwal-Christ19-Resume-2b53-ebfe.json
+message : AYUSSHI AGARWAL 
+, replying from cache 
+
+message : EDUCATION  
+, replying from cache 
+
+in catch
+message : PROFESSIONAL COURSES 
+, replying from cache 
+
+message : CERTIFICATE COURSES  
+, replying from cache 
+
+message : INTERNSHIP EXPERIENCE  
+, replying from cache 
+
+message : CO-CURRICULAR ACTIVITIES  
+, replying from cache 
+
+message : Moot Court Achievements 
+, replying from cache 
+
+message : ORGANISATIONAL ACTIVITIES  
+, replying from cache 
+
+new_file is ./CVs\BalajiVenkatakrishnan-17-Resume-af98-83fc.pdf
+Filename : ./CVs\BalajiVenkatakrishnan-17-Resume-af98 83fc.pdf parts : ./CVs
+Output path is : ./Output/BalajiVenkatakrishnan-17-Resume-af98-83fc.json
+message : EDUCATION 
+, replying from cache 
+
+in catch
+message : WORK EXPERIENCE 
+, replying from cache 
+
+'topScoringIntent'
+'topScoringIntent'
+'topScoringIntent'
+message :                            July 2013 
+, replying from cache 
+
+'topScoringIntent'
+'topScoringIntent'
+'topScoringIntent'
+message : PUBLICATIONS 
+, replying from cache 
+
+in catch
+message : LANGUAGES 
+, replying from cache 
+
+new_file is ./CVs\BalajiVenkatakrishnan-17-Resume-af98-b3b4.pdf
+Filename : ./CVs\BalajiVenkatakrishnan-17-Resume-af98 b3b4.pdf parts : ./CVs
+Output path is : ./Output/BalajiVenkatakrishnan-17-Resume-af98-b3b4.json
+message : BALAJI VENKATAKRISHNAN 
+, replying from cache 
+
+message : EDUCATION 
+, replying from cache 
+
+message : SCHOLARSHIPS 
+, replying from cache 
+
+message : ACADEMIC AWARDS & ACHIEVEMENTS 
+, replying from cache 
+
+in catch
+message : WORK EXPERIENCE 
+, replying from cache 
+
+message : J. Sagar Associates, Mumbai  
+, replying from cache 
+
+message : Veritas Legal, Mumbai   
+, replying from cache 
+
+'topScoringIntent'
+message : Drew & Napier LLC, Singapore  
+, replying from cache 
+
+'topScoringIntent'
+message : Dainik Bhaskar  
+, replying from cache 
+
+'topScoringIntent'
+message : Dyslexia Association of Singapore 
+, replying from cache 
+
+message : Providence Law Asia LLC  
+, replying from cache 
+
+message :                            July 2013 
+, replying from cache 
+
+message :                            July 2013 
+, replying from cache 
+
+message : RESEARCH EXPERIENCE 
+, replying from cache 
+
+'topScoringIntent'
+'topScoringIntent'
+'topScoringIntent'
+message : PUBLICATIONS 
+, replying from cache 
+
+in catch
+message : LEADERSHIP POSITIONS  
+, replying from cache 
+
+message : LANGUAGES 
+, replying from cache 
+
+new_file is ./CVs\BalajiVenkatakrishnan-17-Resume-af98-f10b.pdf
+Filename : ./CVs\BalajiVenkatakrishnan-17-Resume-af98 f10b.pdf parts : ./CVs
+Output path is : ./Output/BalajiVenkatakrishnan-17-Resume-af98-f10b.json
+message : BALAJI VENKATAKRISHNAN 
+, replying from cache 
+
+message : EDUCATION 
+, replying from cache 
+
+message : SCHOLARSHIPS 
+, replying from cache 
+
+message : ACADEMIC AWARDS & ACHIEVEMENTS 
+, replying from cache 
+
+in catch
+message : WORK EXPERIENCE 
+, replying from cache 
+
+message : J. Sagar Associates, Mumbai  
+, replying from cache 
+
+message : Veritas Legal, Mumbai   
+, replying from cache 
+
+'topScoringIntent'
+message : Drew & Napier LLC, Singapore  
+, replying from cache 
+
+'topScoringIntent'
+message : Dainik Bhaskar  
+, replying from cache 
+
+'topScoringIntent'
+message : Dyslexia Association of Singapore 
+, replying from cache 
+
+message : Providence Law Asia LLC  
+, replying from cache 
+
+message :                            July 2013 
+, replying from cache 
+
+message :                            July 2013 
+, replying from cache 
+
+message : RESEARCH EXPERIENCE 
+, replying from cache 
+
+'topScoringIntent'
+'topScoringIntent'
+'topScoringIntent'
+message : PUBLICATIONS 
+, replying from cache 
+
+in catch
+message : LEADERSHIP POSITIONS  
+, replying from cache 
+
+message : LANGUAGES 
+, replying from cache 
+
+new_file is ./CVs\BalajiVenkatakrishnan-17-Resume-af98-faa6.pdf
+Filename : ./CVs\BalajiVenkatakrishnan-17-Resume-af98 faa6.pdf parts : ./CVs
+Output path is : ./Output/BalajiVenkatakrishnan-17-Resume-af98-faa6.json
+message : BALAJI VENKATAKRISHNAN 
+, replying from cache 
+
+message : EDUCATION 
+, replying from cache 
+
+message : SCHOLARSHIPS 
+, replying from cache 
+
+message : ACADEMIC AWARDS & ACHIEVEMENTS 
+, replying from cache 
+
+in catch
+message : WORK EXPERIENCE 
+, replying from cache 
+
+message : J. Sagar Associates, Mumbai  
+, replying from cache 
+
+message : Veritas Legal, Mumbai   
+, replying from cache 
+
+'topScoringIntent'
+message : Drew & Napier LLC, Singapore  
+, replying from cache 
+
+'topScoringIntent'
+message : Dainik Bhaskar  
+, replying from cache 
+
+'topScoringIntent'
+message : Dyslexia Association of Singapore 
+, replying from cache 
+
+message : Providence Law Asia LLC  
+, replying from cache 
+
+message :                            July 2013 
+, replying from cache 
+
+message :                            July 2013 
+, replying from cache 
+
+message : RESEARCH EXPERIENCE 
+, replying from cache 
+
+'topScoringIntent'
+'topScoringIntent'
+'topScoringIntent'
+message : PUBLICATIONS 
+, replying from cache 
+
+in catch
+message : LEADERSHIP POSITIONS  
+, replying from cache 
+
+message : LANGUAGES 
+, replying from cache 
+
+new_file is ./CVs\BalajiVenkatakrishnan-17-Resume-af98.pdf
+Filename : ./CVs\BalajiVenkatakrishnan-17-Resume-af98.pdf parts : ./CVs
+Output path is : ./Output/BalajiVenkatakrishnan-17-Resume-af98.json
+message : BALAJI VENKATAKRISHNAN 
+, replying from cache 
+
+message : EDUCATION 
+, replying from cache 
+
+message : SCHOLARSHIPS 
+, replying from cache 
+
+message : ACADEMIC AWARDS & ACHIEVEMENTS 
+, replying from cache 
+
+in catch
+message : WORK EXPERIENCE 
+, replying from cache 
+
+message : J. Sagar Associates, Mumbai  
+, replying from cache 
+
+message : Veritas Legal, Mumbai   
+, replying from cache 
+
+'topScoringIntent'
+message : Drew & Napier LLC, Singapore  
+, replying from cache 
+
+'topScoringIntent'
+message : Dainik Bhaskar  
+, replying from cache 
+
+'topScoringIntent'
+message : Dyslexia Association of Singapore 
+, replying from cache 
+
+message : Providence Law Asia LLC  
+, replying from cache 
+
+message :                            July 2013 
+, replying from cache 
+
+message :                            July 2013 
+, replying from cache 
+
+message : RESEARCH EXPERIENCE 
+, replying from cache 
+
+'topScoringIntent'
+'topScoringIntent'
+'topScoringIntent'
+message : PUBLICATIONS 
+, replying from cache 
+
+in catch
+message : LEADERSHIP POSITIONS  
+, replying from cache 
+
+message : LANGUAGES 
+, replying from cache 
+
+new_file is ./CVs\BalaMurali-17-Resume-102c.pdf
+Filename : ./CVs\BalaMurali-17-Resume-102c.pdf parts : ./CVs
+Output path is : ./Output/BalaMurali-17-Resume-102c.json
+'topScoringIntent'
+new_file is ./CVs\BalaMurali-SOEL17-Resume-102c-1228.pdf
+Filename : ./CVs\BalaMurali-SOEL17-Resume-102c 1228.pdf parts : ./CVs
+Output path is : ./Output/BalaMurali-SOEL17-Resume-102c-1228.json
+message : SOFTWARE  ENGINEER-DEVELOPER 
+, replying from cache 
+
+'topScoringIntent'
+message : court, Alandur, Chennai 
+, replying from cache 
+
+message : Jan, 2017 
+, replying from cache 
+
+message : Will be furnished upon request 
+, replying from cache 
+
+new_file is ./CVs\BalaMurali-SOEL17-Resume-102c-8821.pdf
+Filename : ./CVs\BalaMurali-SOEL17-Resume-102c 8821.pdf parts : ./CVs
+Output path is : ./Output/BalaMurali-SOEL17-Resume-102c-8821.json
+message : SOFTWARE  ENGINEER-DEVELOPER 
+, replying from cache 
+
+'topScoringIntent'
+message : court, Alandur, Chennai 
+, replying from cache 
+
+message : Jan, 2017 
+, replying from cache 
+
+message : Will be furnished upon request 
+, replying from cache 
+
+new_file is ./CVs\BalaMurali-SOEL17-Resume-102c-9572.pdf
+Filename : ./CVs\BalaMurali-SOEL17-Resume-102c 9572.pdf parts : ./CVs
+Output path is : ./Output/BalaMurali-SOEL17-Resume-102c-9572.json
+message : SOFTWARE  ENGINEER-DEVELOPER 
+, replying from cache 
+
+'topScoringIntent'
+message : court, Alandur, Chennai 
+, replying from cache 
+
+message : Jan, 2017 
+, replying from cache 
+
+message : Will be furnished upon request 
+, replying from cache 
+
+new_file is ./CVs\BalaMurali-SOEL17-Resume-102c-f6a2.pdf
+Filename : ./CVs\BalaMurali-SOEL17-Resume-102c f6a2.pdf parts : ./CVs
+Output path is : ./Output/BalaMurali-SOEL17-Resume-102c-f6a2.json
+message : SOFTWARE  ENGINEER-DEVELOPER 
+, replying from cache 
+
+'topScoringIntent'
+message : court, Alandur, Chennai 
+, replying from cache 
+
+message : Jan, 2017 
+, replying from cache 
+
+message : Will be furnished upon request 
+, replying from cache 
+
+new_file is ./CVs\BalaMurali-TamilNaduDrAmbedkarLawUniversity17-Resume-102c.pdf
+Filename : ./CVs\BalaMurali-TamilNaduDrAmbedkarLawUniversity17-Resume-102c.pdf parts : ./CVs
+Output path is : ./Output/BalaMurali-TamilNaduDrAmbedkarLawUniversity17-Resume-102c.json
+message : SOFTWARE  ENGINEER-DEVELOPER 
+, replying from cache 
+
+'topScoringIntent'
+message : court, Alandur, Chennai 
+, replying from cache 
+
+message : Jan, 2017 
+, replying from cache 
+
+message : Will be furnished upon request 
+, replying from cache 
+
+new_file is ./CVs\BarathySridhar-14-Resume-478a.pdf
+Filename : ./CVs\BarathySridhar-14-Resume-478a.pdf parts : ./CVs
+Output path is : ./Output/BarathySridhar-14-Resume-478a.json
+message : Career Objective: 
+, replying from cache 
+
+message : Work Experience: 
+, replying from cache 
+
+in catch
+new_file is ./CVs\BasawaPrasadKunale-GNLU17-Resume-6bfe.pdf
+Filename : ./CVs\BasawaPrasadKunale-GNLU17-Resume-6bfe.pdf parts : ./CVs
+Output path is : ./Output/BasawaPrasadKunale-GNLU17-Resume-6bfe.json
+message : A R E A S   O F  I N T E R E S T  
+, replying from cache 
+
+message : BASAWA PRASAD KUNALE 
+, replying from cache 
+
+message : BASAWA PRASAD KUNALE 
+, replying from cache 
+
+message : Moots: 
+, replying from cache 
+
+message : BASAWA PRASAD KUNALE 
+, replying from cache 
+
+new_file is ./CVs\BatulBarodawalasymlawacin-17-Resume-83f6.pdf
+Filename : ./CVs\BatulBarodawalasymlawacin-17-Resume-83f6.pdf parts : ./CVs
+Output path is : ./Output/BatulBarodawalasymlawacin-17-Resume-83f6.json
+message : AREAS OF INTEREST 
+, replying from cache 
+
+message : Year 
+, replying from cache 
+
+message : Institution 
+, replying from cache 
+
+'topScoringIntent'
+message : ADDITIONAL QUALIFICATIONS 
+, replying from cache 
+
+message : Year 
+, replying from cache 
+
+message : WORK EXPERIENCE 
+, replying from cache 
+
+message : Position: Intern 
+, replying from cache 
+
+message : Responsibilities: 
+, replying from cache 
+
+message : Position: Intern 
+, replying from cache 
+
+message : Responsibilities: 
+, replying from cache 
+
+message : Position: Intern 
+, replying from cache 
+
+message : Responsibilities: 
+, replying from cache 
+
+message : Position: Intern 
+, replying from cache 
+
+message : Responsibilities: 
+, replying from cache 
+
+message : Position: Intern 
+, replying from cache 
+
+message : Responsibilities: 
+, replying from cache 
+
+message : Position: Intern 
+, replying from cache 
+
+message : Responsibilities: 
+, replying from cache 
+
+message : POSITIONS OF RESPONSIBILITY 
+, replying from cache 
+
+message : Position, Organization 
+, replying from cache 
+
+message : Period 
+, replying from cache 
+
+message : Key achievements 
+, replying from cache 
+
+message : PERSONAL INFORMATION      
+, replying from cache 
+
+new_file is ./CVs\BedantaChakraborty-20-Resume-9ff0.pdf
+Filename : ./CVs\BedantaChakraborty-20-Resume-9ff0.pdf parts : ./CVs
+Output path is : ./Output/BedantaChakraborty-20-Resume-9ff0.json
+new_file is ./CVs\BHADRAGNAIR-19-Resume-d3ee.pdf
+Filename : ./CVs\BHADRAGNAIR-19-Resume-d3ee.pdf parts : ./CVs
+Output path is : ./Output/BHADRAGNAIR-19-Resume-d3ee.json
+message : MOOT COURT EXPERIENCE 
+, replying from cache 
+
+message : ADDITIONAL QUALIFICATIONS 
+, replying from cache 
+
+message : OTHER ACHIEVEMENTS 
+, replying from cache 
+
+message : PRE-UNIVERSITY ACHIEVEMENTS 
+, replying from cache 
+
+new_file is ./CVs\BHADRAGNAIR-NUJS19-Resume-d3ee-7b7a.pdf
+Filename : ./CVs\BHADRAGNAIR-NUJS19-Resume-d3ee 7b7a.pdf parts : ./CVs
+Output path is : ./Output/BHADRAGNAIR-NUJS19-Resume-d3ee-7b7a.json
+message :                    BHADRA G  NAIR 
+, replying from cache 
+
+message : INTERNSHIPS  
+, replying from cache 
+
+message : 4 weeks] 
+, replying from cache 
+
+message : MOOT COURT EXPERIENCE 
+, replying from cache 
+
+message : ORGANIZATIONAL EXPERIENCE 
+, replying from cache 
+
+message : ADDITIONAL QUALIFICATIONS 
+, replying from cache 
+
+message : OTHER ACHIEVEMENTS 
+, replying from cache 
+
+message : PRE-UNIVERSITY ACHIEVEMENTS 
+, replying from cache 
+
+message : HOBBIES AND  INTERESTS 
+, replying from cache 
+
+new_file is ./CVs\BHADRAGNAIR-NUJS19-Resume-d3ee-be67.pdf
+Filename : ./CVs\BHADRAGNAIR-NUJS19-Resume-d3ee be67.pdf parts : ./CVs
+Output path is : ./Output/BHADRAGNAIR-NUJS19-Resume-d3ee-be67.json
+message :                    BHADRA G  NAIR 
+, replying from cache 
+
+message : INTERNSHIPS  
+, replying from cache 
+
+message : 4 weeks] 
+, replying from cache 
+
+message : MOOT COURT EXPERIENCE 
+, replying from cache 
+
+message : ORGANIZATIONAL EXPERIENCE 
+, replying from cache 
+
+message : ADDITIONAL QUALIFICATIONS 
+, replying from cache 
+
+message : OTHER ACHIEVEMENTS 
+, replying from cache 
+
+message : PRE-UNIVERSITY ACHIEVEMENTS 
+, replying from cache 
+
+message : HOBBIES AND  INTERESTS 
+, replying from cache 
+
+new_file is ./CVs\BHADRAGNAIR-NUJS19-Resume-d3ee-cdda.pdf
+Filename : ./CVs\BHADRAGNAIR-NUJS19-Resume-d3ee cdda.pdf parts : ./CVs
+Output path is : ./Output/BHADRAGNAIR-NUJS19-Resume-d3ee-cdda.json
+message :                    BHADRA G  NAIR 
+, replying from cache 
+
+message : INTERNSHIPS  
+, replying from cache 
+
+message : 4 weeks] 
+, replying from cache 
+
+message : MOOT COURT EXPERIENCE 
+, replying from cache 
+
+message : ORGANIZATIONAL EXPERIENCE 
+, replying from cache 
+
+message : ADDITIONAL QUALIFICATIONS 
+, replying from cache 
+
+message : OTHER ACHIEVEMENTS 
+, replying from cache 
+
+message : PRE-UNIVERSITY ACHIEVEMENTS 
+, replying from cache 
+
+message : HOBBIES AND  INTERESTS 
+, replying from cache 
+
+new_file is ./CVs\BHADRAGNAIR-NUJS19-Resume-d3ee-e704.pdf
+Filename : ./CVs\BHADRAGNAIR-NUJS19-Resume-d3ee e704.pdf parts : ./CVs
+Output path is : ./Output/BHADRAGNAIR-NUJS19-Resume-d3ee-e704.json
+message :                    BHADRA G  NAIR 
+, replying from cache 
+
+message : INTERNSHIPS  
+, replying from cache 
+
+message : 4 weeks] 
+, replying from cache 
+
+message : MOOT COURT EXPERIENCE 
+, replying from cache 
+
+message : ORGANIZATIONAL EXPERIENCE 
+, replying from cache 
+
+message : ADDITIONAL QUALIFICATIONS 
+, replying from cache 
+
+message : OTHER ACHIEVEMENTS 
+, replying from cache 
+
+message : PRE-UNIVERSITY ACHIEVEMENTS 
+, replying from cache 
+
+message : HOBBIES AND  INTERESTS 
+, replying from cache 
+
+new_file is ./CVs\BHADRAGNAIR-NUJS19-Resume-d3ee-e8d5.pdf
+Filename : ./CVs\BHADRAGNAIR-NUJS19-Resume-d3ee e8d5.pdf parts : ./CVs
+Output path is : ./Output/BHADRAGNAIR-NUJS19-Resume-d3ee-e8d5.json
+message :                    BHADRA G  NAIR 
+, replying from cache 
+
+message : INTERNSHIPS  
+, replying from cache 
+
+message : 4 weeks] 
+, replying from cache 
+
+message : MOOT COURT EXPERIENCE 
+, replying from cache 
+
+message : ORGANIZATIONAL EXPERIENCE 
+, replying from cache 
+
+message : ADDITIONAL QUALIFICATIONS 
+, replying from cache 
+
+message : OTHER ACHIEVEMENTS 
+, replying from cache 
+
+message : PRE-UNIVERSITY ACHIEVEMENTS 
+, replying from cache 
+
+message : HOBBIES AND  INTERESTS 
+, replying from cache 
+
+new_file is ./CVs\BHADRAGNAIR-NUJS19-Resume-d3ee.pdf
+Filename : ./CVs\BHADRAGNAIR-NUJS19-Resume-d3ee.pdf parts : ./CVs
+Output path is : ./Output/BHADRAGNAIR-NUJS19-Resume-d3ee.json
+message :                    BHADRA G  NAIR 
+, replying from cache 
+
+message : INTERNSHIPS  
+, replying from cache 
+
+message : 4 weeks] 
+, replying from cache 
+
+message : MOOT COURT EXPERIENCE 
+, replying from cache 
+
+message : ORGANIZATIONAL EXPERIENCE 
+, replying from cache 
+
+message : ADDITIONAL QUALIFICATIONS 
+, replying from cache 
+
+message : OTHER ACHIEVEMENTS 
+, replying from cache 
+
+message : PRE-UNIVERSITY ACHIEVEMENTS 
+, replying from cache 
+
+message : HOBBIES AND  INTERESTS 
+, replying from cache 
+
+new_file is ./CVs\BhagirathAshiya-Christ17-Resume-9df5.pdf
+Filename : ./CVs\BhagirathAshiya-Christ17-Resume-9df5.pdf parts : ./CVs
+Output path is : ./Output/BhagirathAshiya-Christ17-Resume-9df5.json
+message : EDUCATION 
+, replying from cache 
+
+message : INTERNSHIP EXPERIENCE 
+, replying from cache 
+
+message : Publications: 
+, replying from cache 
+
+new_file is ./CVs\Bhagyashree-18-Resume-e4cf.pdf
+Filename : ./CVs\Bhagyashree-18-Resume-e4cf.pdf parts : ./CVs
+Output path is : ./Output/Bhagyashree-18-Resume-e4cf.json
+message : Email
+, replying from cache 
+
+in catch
+message : College/ Institute/ 
+, replying from cache 
+
+message : Percentage / 
+, replying from cache 
+
+message : ACADEMIC ACHIEVEMENTS 
+, replying from cache 
+
+message : Bhagyashree
+, replying from cache 
+
+new_file is ./CVs\BhavanaaJain-17-Resume-e3a5.pdf
+Filename : ./CVs\BhavanaaJain-17-Resume-e3a5.pdf parts : ./CVs
+Output path is : ./Output/BhavanaaJain-17-Resume-e3a5.json
+message : EDUCATION 
+, replying from cache 
+
+message : INTERNSHIP EXPERIENCE 
+, replying from cache 
+
+message : Legal Intern 
+, replying from cache 
+
+message : Legal Intern 
+, replying from cache 
+
+message : Legal Intern 
+, replying from cache 
+
+message : Legal Intern 
+, replying from cache 
+
+message : Legal Intern 
+, replying from cache 
+
+message : Legal Intern 
+, replying from cache 
+
+message : Legal Intern 
+, replying from cache 
+
+message : EXTRA-CURRICULAR ACTIVITIES 
+, replying from cache 
+
+message : Moots: 
+, replying from cache 
+
+message : SCHOLASTIC ACHIEVEMENTS 
+, replying from cache 
+
+new_file is ./CVs\BhavittKRastogi-Amity16-Resume-7df4-62b1.pdf
+Filename : ./CVs\BhavittKRastogi-Amity16-Resume-7df4 62b1.pdf parts : ./CVs
+Output path is : ./Output/BhavittKRastogi-Amity16-Resume-7df4-62b1.json
+message : OBJECTIVE 
+, replying from cache 
+
+message : EXPERIENCE 
+, replying from cache 
+
+message : EDUCATION 
+, replying from cache 
+
+message : SKILLS 
+, replying from cache 
+
+message : PERSONAL DETAILS 
+, replying from cache 
+
+new_file is ./CVs\BhavittKRastogi-Amity16-Resume-7df4-ad62.pdf
+Filename : ./CVs\BhavittKRastogi-Amity16-Resume-7df4 ad62.pdf parts : ./CVs
+Output path is : ./Output/BhavittKRastogi-Amity16-Resume-7df4-ad62.json
+message : OBJECTIVE 
+, replying from cache 
+
+message : EXPERIENCE 
+, replying from cache 
+
+message : DMD Advocates 
+, replying from cache 
+
+message : Shardul Amarchand Mangaldas & Co. 
+, replying from cache 
+
+message : Senior Advocate Mr. Dushyant Dave 
+, replying from cache 
+
+message : Wadia Ghandy & Co. 
+, replying from cache 
+
+message : Pangea3, Thomson Reuters 
+, replying from cache 
+
+message : Chambers of Mr. Aman Sareen 
+, replying from cache 
+
+message : EDUCATION 
+, replying from cache 
+
+message : Amity Law School, GGSIUP 
+, replying from cache 
+
+message : Birla Vidya Niketan 
+, replying from cache 
+
+message : POSITION OF RESPONSIBILITIES 
+, replying from cache 
+
+message : SKILLS 
+, replying from cache 
+
+message : PERSONAL DETAILS 
+, replying from cache 
+
+new_file is ./CVs\BhavyaRocking-18-Resume-ef07.pdf
+Filename : ./CVs\BhavyaRocking-18-Resume-ef07.pdf parts : ./CVs
+Output path is : ./Output/BhavyaRocking-18-Resume-ef07.json
+new_file is ./CVs\BhavyaRocking-SLSNoida18-Resume-ef07.pdf
+Filename : ./CVs\BhavyaRocking-SLSNoida18-Resume-ef07.pdf parts : ./CVs
+Output path is : ./Output/BhavyaRocking-SLSNoida18-Resume-ef07.json
+new_file is ./CVs\Bhumika-NUJS18-Resume-f9fc.pdf
+Filename : ./CVs\Bhumika-NUJS18-Resume-f9fc.pdf parts : ./CVs
+Output path is : ./Output/Bhumika-NUJS18-Resume-f9fc.json
+message : INTERNSHIPS  
+, replying from cache 
+
+'topScoringIntent'
+message : OTHER ACHIEVEMENTS  
+, replying from cache 
+
+new_file is ./CVs\BhumikaBilla-18-Resume-93da.pdf
+Filename : ./CVs\BhumikaBilla-18-Resume-93da.pdf parts : ./CVs
+Output path is : ./Output/BhumikaBilla-18-Resume-93da.json
+message : EDUCATION 
+, replying from cache 
+
+new_file is ./CVs\BikramjitBiswas-16-Resume-9236.pdf
+Filename : ./CVs\BikramjitBiswas-16-Resume-9236.pdf parts : ./CVs
+Output path is : ./Output/BikramjitBiswas-16-Resume-9236.json
+message : EDUCATION 
+, replying from cache 
+
+message : PUBLICATIONS 
+, replying from cache 
+
+message : CONFERENCES 
+, replying from cache 
+
+message : OTHER  
+, replying from cache 
+
+message : INTERNSHIPS  
+, replying from cache 
+
+message : EXPERIENCE 
+, replying from cache 
+
+message : ACADEMIC ACTIVITIES 
+, replying from cache 
+
+message : EXTRA-CURRICULAR ACTIVITIES 
+, replying from cache 
+
+message : RESPONSIBILITY 
+, replying from cache 
+
+new_file is ./CVs\BimbitaKateel-Christ19-Resume-7b80-aa1f.pdf
+Filename : ./CVs\BimbitaKateel-Christ19-Resume-7b80 aa1f.pdf parts : ./CVs
+Output path is : ./Output/BimbitaKateel-Christ19-Resume-7b80-aa1f.json
+message : EDUCATION 
+, replying from cache 
+
+message : PROFESSIONAL COURSES 
+, replying from cache 
+
+message : INTERNSHIP EXPERIENCE 
+, replying from cache 
+
+in catch
+message : Moot Court Achievements 
+, replying from cache 
+
+message : ORGANISATIONAL ACTIVITIES 
+, replying from cache 
+
+new_file is ./CVs\BimbitaKateel-Christ19-Resume-7b80-f501.pdf
+Filename : ./CVs\BimbitaKateel-Christ19-Resume-7b80 f501.pdf parts : ./CVs
+Output path is : ./Output/BimbitaKateel-Christ19-Resume-7b80-f501.json
+message : EDUCATION 
+, replying from cache 
+
+message : PROFESSIONAL COURSES 
+, replying from cache 
+
+message : INTERNSHIP EXPERIENCE 
+, replying from cache 
+
+in catch
+message : Moot Court Achievements 
+, replying from cache 
+
+message : Papers Published 
+, replying from cache 
+
+message : ORGANISATIONAL ACTIVITIES 
+, replying from cache 
+
+new_file is ./CVs\BimbitaKateel-Christ19-Resume-7b80-aa1f.pdf
+Filename : ./CVs\BimbitaKateel-Christ19-Resume-7b80-aa1f.pdf parts : ./CVs
+Output path is : ./Output/BimbitaKateel-Christ19-Resume-7b80-aa1f.json
+message : EDUCATION 
+, replying from cache 
+
+message : PROFESSIONAL COURSES 
+, replying from cache 
+
+message : INTERNSHIP EXPERIENCE 
+, replying from cache 
+
+in catch
+message : Moot Court Achievements 
+, replying from cache 
+
+message : Papers Published 
+, replying from cache 
+
+message : ORGANISATIONAL ACTIVITIES 
+, replying from cache 
+
+new_file is ./CVs\BirajTanna-19-Resume-b025.pdf
+Filename : ./CVs\BirajTanna-19-Resume-b025.pdf parts : ./CVs
+Output path is : ./Output/BirajTanna-19-Resume-b025.json
+new_file is ./CVs\BishikhMohanty-18-Resume-648d.pdf
+Filename : ./CVs\BishikhMohanty-18-Resume-648d.pdf parts : ./CVs
+Output path is : ./Output/BishikhMohanty-18-Resume-648d.json
+in catch
+in catch
+in catch
+in catch
+in catch
+in catch
+in catch
+in catch
+in catch
+in catch
+in catch
+in catch
+new_file is ./CVs\BMBiplab-19-Resume-c0cd.pdf
+Filename : ./CVs\BMBiplab-19-Resume-c0cd.pdf parts : ./CVs
+Output path is : ./Output/BMBiplab-19-Resume-c0cd.json
+message : ACADEMIC ACTIVITIES 
+, replying from cache 
+
+message : EDUCATION 
+, replying from cache 
+
+message : MOOT COURTS 
+, replying from cache 
+
+message : INTERNSHIPS 
+, replying from cache 
+
+message : AND WORK 
+, replying from cache 
+
+message : EXPERIENCE 
+, replying from cache 
+
+message : EXTRA-CURRICULAR ACTIVITIES 
+, replying from cache 
+
+message : POSITIONS OF  
+, replying from cache 
+
+message : RESPONSIBILITY 
+, replying from cache 
+
+new_file is ./CVs\BRITIKAREDDY-19-Resume-cf2c.pdf
+Filename : ./CVs\BRITIKAREDDY-19-Resume-cf2c.pdf parts : ./CVs
+Output path is : ./Output/BRITIKAREDDY-19-Resume-cf2c.json
+in catch
+new_file is ./CVs\BryanPillai-19-Resume-c041.pdf
+Filename : ./CVs\BryanPillai-19-Resume-c041.pdf parts : ./CVs
+Output path is : ./Output/BryanPillai-19-Resume-c041.json
+new_file is ./CVs\CAbhinavSharma-18-Resume-aec2.pdf
+Filename : ./CVs\CAbhinavSharma-18-Resume-aec2.pdf parts : ./CVs
+Output path is : ./Output/CAbhinavSharma-18-Resume-aec2.json
+message : EDUCATION 
+, replying from cache 
+
+message : PRIOR INTERNSHIP EXPERIENCE 
+, replying from cache 
+
+message : CO-CURRICULAR ACTIVITIES 
+, replying from cache 
+
+in catch
+message : ORGANISATIONAL ACTIVITIES 
+, replying from cache 
+
+new_file is ./CVs\CANandanSoni-16-Resume-bfdf.pdf
+Filename : ./CVs\CANandanSoni-16-Resume-bfdf.pdf parts : ./CVs
+Output path is : ./Output/CANandanSoni-16-Resume-bfdf.json
+message : CURRICULUM VITAE 
+, replying from cache 
+
+message : Educational Qualifications 
+, replying from cache 
+
+message : University 
+, replying from cache 
+
+message : Course 
+, replying from cache 
+
+message : PERSONAL DETAILS: 
+, replying from cache 
+
+new_file is ./CVs\CarolinYanglem-19-Resume-e5e7.pdf
+Filename : ./CVs\CarolinYanglem-19-Resume-e5e7.pdf parts : ./CVs
+Output path is : ./Output/CarolinYanglem-19-Resume-e5e7.json
+message : College/School 
+, replying from cache 
+
+message : Qualification 
+, replying from cache 
+
+message : Percentage 
+, replying from cache 
+
+new_file is ./CVs\ChandanaArval-17-Resume-7799-6029.pdf
+Filename : ./CVs\ChandanaArval-17-Resume-7799 6029.pdf parts : ./CVs
+Output path is : ./Output/ChandanaArval-17-Resume-7799-6029.json
+message : EDUCATIONAL QUALIFICATIONS 
+, replying from cache 
+
+message : INTERNSHIPS 
+, replying from cache 
+
+message : RESEARCH EXPERIENCE 
+, replying from cache 
+
+message : CO-CURRICULAR ACTIVITIES 
+, replying from cache 
+
+message : EXTRA CURRICULAR ACTIVITIES 
+, replying from cache 
+
+new_file is ./CVs\ChandanaArval-17-Resume-7799.pdf
+Filename : ./CVs\ChandanaArval-17-Resume-7799.pdf parts : ./CVs
+Output path is : ./Output/ChandanaArval-17-Resume-7799.json
+message : CHANDANA ARVAL 
+, replying from cache 
+
+message : EDUCATIONAL QUALIFICATIONS 
+, replying from cache 
+
+message : INTERNSHIPS 
+, replying from cache 
+
+message : PUBLICATIONS: 
+, replying from cache 
+
+message : RESEARCH EXPERIENCE 
+, replying from cache 
+
+message : CO-CURRICULAR ACTIVITIES 
+, replying from cache 
+
+message : INTERNATIONAL STUDY EXPERIENCE 
+, replying from cache 
+
+message : EXTRA CURRICULAR ACTIVITIES 
+, replying from cache 
+
+new_file is ./CVs\CharuSharma-17-Resume-30c5.pdf
+Filename : ./CVs\CharuSharma-17-Resume-30c5.pdf parts : ./CVs
+Output path is : ./Output/CharuSharma-17-Resume-30c5.json
+message : EDUCATION 
+, replying from cache 
+
+message : Salwan Public School, New Delhi   
+, replying from cache 
+
+new_file is ./CVs\CharuSingh-16-Resume-7649.pdf
+Filename : ./CVs\CharuSingh-16-Resume-7649.pdf parts : ./CVs
+Output path is : ./Output/CharuSingh-16-Resume-7649.json
+message : A R E A S   O F  I N T E R E S T  
+, replying from cache 
+
+message : W O R K  E X P E R I E N C E    
+, replying from cache 
+
+message : CHARU SINGH 
+, replying from cache 
+
+new_file is ./CVs\CharuSingh-18-Resume-7649.pdf
+Filename : ./CVs\CharuSingh-18-Resume-7649.pdf parts : ./CVs
+Output path is : ./Output/CharuSingh-18-Resume-7649.json
+message : CHARU SINGH 
+, replying from cache 
+
+message : A R E A S   O F  I N T E R E S T  
+, replying from cache 
+
+message : W O R K  E X P E R I E N C E    
+, replying from cache 
+
+message : CHARU SINGH 
+, replying from cache 
+
+new_file is ./CVs\CharuSingh-RMLNLU18-Resume-7649.pdf
+Filename : ./CVs\CharuSingh-RMLNLU18-Resume-7649.pdf parts : ./CVs
+Output path is : ./Output/CharuSingh-RMLNLU18-Resume-7649.json
+message : CHARU SINGH 
+, replying from cache 
+
+message : ACADEMIC PERFORMANCE 
+, replying from cache 
+
+message : CO-CURRICULAR ACTIVITIES 
+, replying from cache 
+
+message : EXTRA-CURRICULAR ACTIVITIES 
+, replying from cache 
+
+new_file is ./CVs\ChetanDhingra-18-Resume-19e7-12c6.pdf
+Filename : ./CVs\ChetanDhingra-18-Resume-19e7 12c6.pdf parts : ./CVs
+Output path is : ./Output/ChetanDhingra-18-Resume-19e7-12c6.json
+new_file is ./CVs\ChetanDhingra-18-Resume-19e7-f55c.pdf
+Filename : ./CVs\ChetanDhingra-18-Resume-19e7 f55c.pdf parts : ./CVs
+Output path is : ./Output/ChetanDhingra-18-Resume-19e7-f55c.json
+message : Objective 
+, replying from cache 
+
+message : Academic Credentials 
+, replying from cache 
+
+message : Internship 
+, replying from cache 
+
+message : 4.  Kochhar & Co. Gurgaon 
+, replying from cache 
+
+message : 5.  Murari Tiwari and Co. 
+, replying from cache 
+
+message : Basic Interests  
+, replying from cache 
+
+message : Skills  
+, replying from cache 
+
+message : Personal Interests 
+, replying from cache 
+
+message : Declaration 
+, replying from cache 
+
+new_file is ./CVs\ChhaviBansal-18-Resume-1ce7.pdf
+Filename : ./CVs\ChhaviBansal-18-Resume-1ce7.pdf parts : ./CVs
+Output path is : ./Output/ChhaviBansal-18-Resume-1ce7.json
+message : YEAR 
+, replying from cache 
+
+message : INTERNSHIPS: 
+, replying from cache 
+
+message : EXTRA CURRICULAR ACTIVITIES: 
+, replying from cache 
+
+new_file is ./CVs\ChinmaySingh-Amity16-Resume-976c.pdf
+Filename : ./CVs\ChinmaySingh-Amity16-Resume-976c.pdf parts : ./CVs
+Output path is : ./Output/ChinmaySingh-Amity16-Resume-976c.json
+message : EDUCATIONAL QUALIFCATION 
+, replying from cache 
+
+message : COLLEGE/SCHOOL 
+, replying from cache 
+
+message : CGPA/PERCENTAGE 
+, replying from cache 
+
+message : INTERNSHIPS 
+, replying from cache 
+
+message : MOOT COURT EXPERIENCE 
+, replying from cache 
+
+message : PUBLICATIONS 
+, replying from cache 
+
+message : SEMINARS AND OTHER WORKSHOPS 
+, replying from cache 
+
+message : ORGANISATIONAL EXPERIENCE 
+, replying from cache 
+
+message : PRE-UNIVERSITY ACHIEVEMENTS 
+, replying from cache 
+
+message : REFERENCES 
+, replying from cache 
+
+new_file is ./CVs\ChinnaAswathyAbraham-18-Resume-446c.pdf
+Filename : ./CVs\ChinnaAswathyAbraham-18-Resume-446c.pdf parts : ./CVs
+Output path is : ./Output/ChinnaAswathyAbraham-18-Resume-446c.json
+message : CURRICULUM VITAE 
+, replying from cache 
+
+new_file is ./CVs\ChinnaAswathyAbraham-Sastra18-Resume-446c-0068.pdf
+Filename : ./CVs\ChinnaAswathyAbraham-Sastra18-Resume-446c 0068.pdf parts : ./CVs
+Output path is : ./Output/ChinnaAswathyAbraham-Sastra18-Resume-446c-0068.json
+message : EDUCATION 
+, replying from cache 
+
+message : WORK EXPERIENCE 
+, replying from cache 
+
+message : MOOT COURT COMPETITIONS 
+, replying from cache 
+
+message : OTHERS 
+, replying from cache 
+
+message : LANGUAGES KNOWN: 
+, replying from cache 
+
+new_file is ./CVs\ChinnaAswathyAbraham-Sastra18-Resume-446c-17b8.pdf
+Filename : ./CVs\ChinnaAswathyAbraham-Sastra18-Resume-446c 17b8.pdf parts : ./CVs
+Output path is : ./Output/ChinnaAswathyAbraham-Sastra18-Resume-446c-17b8.json
+message : CHINNA ASWATHY ABRAHAM 
+, replying from cache 
+
+message : EDUCATION 
+, replying from cache 
+
+message : ADDITIONAL QUALIFICATION/COURSES 
+, replying from cache 
+
+message : WORK EXPERIENCE 
+, replying from cache 
+
+message : 2015           Kochhar & Co 
+, replying from cache 
+
+message : EXPERIENCE AS AN ORGANISER 
+, replying from cache 
+
+message : MOOT COURT COMPETITIONS 
+, replying from cache 
+
+message : OTHERS 
+, replying from cache 
+
+message : EDITORIAL EXPERIENCE 
+, replying from cache 
+
+message :  EXTRA-CURRICULAR ACTIVITIES: 
+, replying from cache 
+
+message : INTERESTS: 
+, replying from cache 
+
+message : LANGUAGES KNOWN: 
+, replying from cache 
+
+message : REFERENCES: 
+, replying from cache 
+
+new_file is ./CVs\ChinnaAswathyAbraham-Sastra18-Resume-446c-cd14.pdf
+Filename : ./CVs\ChinnaAswathyAbraham-Sastra18-Resume-446c cd14.pdf parts : ./CVs
+Output path is : ./Output/ChinnaAswathyAbraham-Sastra18-Resume-446c-cd14.json
+message : CHINNA ASWATHY ABRAHAM 
+, replying from cache 
+
+message : EDUCATION 
+, replying from cache 
+
+message : ADDITIONAL QUALIFICATION/COURSES 
+, replying from cache 
+
+message : WORK EXPERIENCE 
+, replying from cache 
+
+message : 2015           Kochhar & Co 
+, replying from cache 
+
+message : EXPERIENCE AS AN ORGANISER 
+, replying from cache 
+
+message : MOOT COURT COMPETITIONS 
+, replying from cache 
+
+message : OTHERS 
+, replying from cache 
+
+message : EDITORIAL EXPERIENCE 
+, replying from cache 
+
+message :  EXTRA-CURRICULAR ACTIVITIES: 
+, replying from cache 
+
+message : INTERESTS: 
+, replying from cache 
+
+message : LANGUAGES KNOWN: 
+, replying from cache 
+
+message : REFERENCES: 
+, replying from cache 
+
+new_file is ./CVs\ChinnaAswathyAbraham-Sastra18-Resume-446c-f65d.pdf
+Filename : ./CVs\ChinnaAswathyAbraham-Sastra18-Resume-446c f65d.pdf parts : ./CVs
+Output path is : ./Output/ChinnaAswathyAbraham-Sastra18-Resume-446c-f65d.json
+message : CHINNA ASWATHY ABRAHAM 
+, replying from cache 
+
+message : EDUCATION 
+, replying from cache 
+
+message : ADDITIONAL QUALIFICATION/COURSES 
+, replying from cache 
+
+message : WORK EXPERIENCE 
+, replying from cache 
+
+message : 2015           Kochhar & Co 
+, replying from cache 
+
+message : EXPERIENCE AS AN ORGANISER 
+, replying from cache 
+
+message : MOOT COURT COMPETITIONS 
+, replying from cache 
+
+message : OTHERS 
+, replying from cache 
+
+message : EDITORIAL EXPERIENCE 
+, replying from cache 
+
+message :  EXTRA-CURRICULAR ACTIVITIES: 
+, replying from cache 
+
+message : INTERESTS: 
+, replying from cache 
+
+message : LANGUAGES KNOWN: 
+, replying from cache 
+
+message : REFERENCES: 
+, replying from cache 
+
+new_file is ./CVs\ChinnaAswathyAbraham-Sastra18-Resume-446c.pdf
+Filename : ./CVs\ChinnaAswathyAbraham-Sastra18-Resume-446c.pdf parts : ./CVs
+Output path is : ./Output/ChinnaAswathyAbraham-Sastra18-Resume-446c.json
+message : CURRICULUM VITAE 
+, replying from cache 
+
+new_file is ./CVs\ChiranjiviSharma-Resume-335a.pdf
+Filename : ./CVs\ChiranjiviSharma-Resume-335a.pdf parts : ./CVs
+Output path is : ./Output/ChiranjiviSharma-Resume-335a.json
+message : INTERNSHIPS: 
+, replying from cache 
+
+in catch
+in catch
+message : Publications: 
+, replying from cache 
+
+in catch
+new_file is ./CVs\ChirashreeK-15-Resume-fd23.pdf
+Filename : ./CVs\ChirashreeK-15-Resume-fd23.pdf parts : ./CVs
+Output path is : ./Output/ChirashreeK-15-Resume-fd23.json
+new_file is ./CVs\ChitraPareek-Resume-cb89.pdf
+Filename : ./CVs\ChitraPareek-Resume-cb89.pdf parts : ./CVs
+Output path is : ./Output/ChitraPareek-Resume-cb89.json
+message : Board/University 
+, replying from cache 
+
+in catch
+message : Work Experience 
+, replying from cache 
+
+message : Hobbies 
+, replying from cache 
+
+new_file is ./CVs\ChristinaShaju-Resume-eefe.pdf
+Filename : ./CVs\ChristinaShaju-Resume-eefe.pdf parts : ./CVs
+Output path is : ./Output/ChristinaShaju-Resume-eefe.json
+message : EDUCATION & CERTIFICATION 
+, replying from cache 
+
+message : INTERNSHIPS 
+, replying from cache 
+
+in catch
+message : CO-CURRICULAR 
+, replying from cache 
+
+message : MOOT COURTS 
+, replying from cache 
+
+message : POSITIONS OF RESPONSIBILITY 
+, replying from cache 
+
+message : EXTRA-CURRICULAR ACTIVITIES 
+, replying from cache 
+
+message : REFERENCES 
+, replying from cache 
+
+new_file is ./CVs\CSDevulDighe-17-Resume-300f.pdf
+Filename : ./CVs\CSDevulDighe-17-Resume-300f.pdf parts : ./CVs
+Output path is : ./Output/CSDevulDighe-17-Resume-300f.json
+message : EDUCATION 
+, replying from cache 
+
+message : Year 
+, replying from cache 
+
+in catch
+message : WORK EXPERIENCE: 
+, replying from cache 
+
+new_file is ./CVs\DaminiBisht-17-Resume-3594.pdf
+Filename : ./CVs\DaminiBisht-17-Resume-3594.pdf parts : ./CVs
+Output path is : ./Output/DaminiBisht-17-Resume-3594.json
+message : Educational Qualifications 
+, replying from cache 
+
+'topScoringIntent'
+message :   Internships 
+, replying from cache 
+
+message :  APJ-SLG Law Offices 
+, replying from cache 
+
+message :  LexQuest  
+, replying from cache 
+
+message :  Vivek Aggarwal & Associates 
+, replying from cache 
+
+message :  Hitchup 
+, replying from cache 
+
+message : Legge Rhythms 
+, replying from cache 
+
+message : Moot Court 
+, replying from cache 
+
+message : Seminars and Other Workshops  
+, replying from cache 
+
+message : Model United Nations 
+, replying from cache 
+
+message : Academic Achievements 
+, replying from cache 
+
+message : Organizational Experience  
+, replying from cache 
+
+new_file is ./CVs\DaminiBisht-18-Resume-ae59.pdf
+Filename : ./CVs\DaminiBisht-18-Resume-ae59.pdf parts : ./CVs
+Output path is : ./Output/DaminiBisht-18-Resume-ae59.json
+message : EDUCATIONAL QUALIFICATIONS 
+, replying from cache 
+
+message : COLLEGE/SCHOOL 
+, replying from cache 
+
+in catch
+message : Board 
+, replying from cache 
+
+in catch
+message : LBS, RK PURAM, 
+, replying from cache 
+
+message : New Delhi 
+, replying from cache 
+
+message : INTERNSHIPS 
+, replying from cache 
+
+in catch
+in catch
+in catch
+in catch
+message : MOOT COURT EXPERIENCE 
+, replying from cache 
+
+message : SEMINARS AND OTHER WORKSHOPS 
+, replying from cache 
+
+in catch
+in catch
+in catch
+in catch
+in catch
+in catch
+in catch
+in catch
+in catch
+message : College/School 
+, replying from cache 
+
+in catch
+in catch
+in catch
+in catch
+in catch
+in catch
+in catch
+in catch
+in catch
+in catch
+in catch
+in catch
+in catch
+in catch
+in catch
+in catch
+in catch
+in catch
+in catch
+in catch
+in catch
+in catch
+in catch
+in catch
+in catch
+in catch
+in catch
+in catch
+in catch
+in catch
+in catch
+in catch
+in catch
+in catch
+in catch
+in catch
+in catch
+in catch
+in catch
+in catch
+in catch
